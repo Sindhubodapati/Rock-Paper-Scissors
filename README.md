@@ -29,7 +29,18 @@ Rock-Paper-Scissors/
 ├── paper.png        # Paper icon
 └── scissor.png      # Scissor icon
 
+## 🚀 How to Run Locally
+1. Clone the repository
+git clone https://github.com/Sindhubodapati/Rock-Paper-Scissors.git
 
+2. Navigate to the project directory
+
+cd Rock-Paper-Scissors
+Open index.html in any web browser
+
+Double-click the file or run:
+open index.html   # macOS
+start index.html  # Windows
 
 
 
